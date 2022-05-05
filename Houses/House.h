@@ -1,3 +1,5 @@
+#ifndef HOUSE_H
+#define HOUSE_H
 #include <string>
 using namespace std;
 
@@ -20,3 +22,5 @@ private:
 	int numWindows;
 	string color;
 };
+
+#endif
